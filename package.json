@@ -35,7 +35,9 @@
     "node-fetch": "^2.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "sinon": "^6.1.4"
+    "react-native-uuid": "^1.4.9",
+    "sinon": "^6.1.4",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
